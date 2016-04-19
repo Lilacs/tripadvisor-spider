@@ -1,0 +1,9 @@
+{
+    "port": 8888,
+    "url": "http://www.tripadvisor.cn/WidgetEmbed-cdspropertydetail?partnerId=5CEACDF210734AEF9E7A10E6F50E3C24&lang=zh&display=true&locationId=",
+    "places": [1513860, 1421116, 2016610, 2031570, 6600989, 317431, 543602,
+               459914, 1851812, 1851764, 321017, 311604, 319086, 311592, 1887174,
+               2428737, 4452229, 812015, 1119977, 1811943],
+    "task": [0, 15, 30, 45],
+    "exportPath": "/Users/zhangpeng/Desktop/tripadvisor-top.json"
+}
